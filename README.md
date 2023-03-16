@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @livpasquarelli - a writer, cat herder, crypto user since 2012, and Web3 native
-- ✍🏼 At Consensys, they call me the Senior Copywriter  
+- 👋🏼 Hi, I’m @livpasquarelli - aka bloodpacts.eth - a writer, cat herder, crypto user since 2012
+- ✍🏼 At Consensys, they call me the Senior Copywriter - aka livwrites.eth
 - 🕳 I’m interested in gazing into the abyss long enough for the abyss to gaze back into me
 - 🧠 I’m currently learning how to enable censorship resistant payments and token gated content for sex workers 
 - 🌱 I’m a graduate of Kernel Block 7
